@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lpa:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lpa_jar</output-path>
+    <root id="archive" name="lpa.jar">
+      <element id="module-output" name="lpa" />
+    </root>
+  </artifact>
+</component>
